@@ -62,4 +62,4 @@ email: ""
 #- []
 #- []
 ---
-My name is Marco Duarte and I am a Ph.D. student at the University of Wisconsin-Madison. My research interests lie in industrial organization and applied microeconomics. My research agenda centers on estimation and testing of firms conduct, and the interaction between collusive practices and vertical relations.
+I am a Ph.D. student at the University of Wisconsin-Madison. My research interests lie at the intersection of industrial organization and applied microeconomics. In particular, I focus on the estimation and testing of firms' conduct, and the interaction of collusive practices and vertical relations between firms.
