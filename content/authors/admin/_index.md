@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: asd
+bio: ""
 
 interests:
 - Empirical Industrial Organization
@@ -34,7 +34,7 @@ education:
     year: 2016
   - course: B.S. in Economics
     institution: Federal University of Minas Gerais
-    year: 2008
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,7 +46,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/marco-duarte
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,5 +62,4 @@ email: ""
 #- []
 #- []
 ---
-
-asd
+My name is Marco Duarte and I am a Ph.D. student at the University of Wisconsin-Madison. My research interests lie in industrial organization and applied microeconomics. My research agenda centers on estimation and testing of firms conduct, and the interaction between collusive practices and vertical relations.
