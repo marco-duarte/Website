@@ -60,4 +60,4 @@ email: ""
 #- []
 #- []
 ---
-I am a Ph.D. student at the University of Wisconsin-Madison. My research interests lie at the intersection of industrial organization and applied microeconomics. In particular, I focus on the estimation and testing of firms' conduct, and the interaction of collusive practices and vertical relations between firms.
+I am a Ph.D. student at the University of Wisconsin-Madison. My research interests lie at the intersection of industrial organization and applied microeconomics. In particular, I focus on the estimation and testing of firms' conduct and the interaction of collusive practices and vertical relations between firms.
