@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. Student in Economics
+  - course: Ph.D. Candidate in Economics
     institution: University of Wisconsin-Madison
     year: 
   - course: M.S. in Economics
