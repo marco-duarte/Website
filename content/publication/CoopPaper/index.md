@@ -18,7 +18,7 @@ publication_types: ["0"]
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
-abstract: "Although consumer cooperatives are nominally operated in the interest of their members, their governance structure may allow managers to pursue their own objectives. This article tests empirically whether consumer cooperatives act as profit-maximizing agents. Using data and a structural model, we investigate whether the hypothesis of profit maximization can be rejected for consumer cooperatives operating in the Italian supermarket industry. We do not find significant deviations of cooperatives’ conduct from profit maximization. Counterfactual simulations indicate that full internalization of consumer surplus by cooperatives would increase consumer surplus by about 6% in the market we study."
+abstract: "Consumer cooperatives are firms owned by their customers. Although their organizational form should commit these firms to not exploit their market power, in practice weak governance may allow managers to pursue other objectives. Using data and a structural model, we test whether consumer cooperatives in the Italian supermarket industry act as profit-maximizing firms. We find no significant deviations from profit maximization. However, even a mild degree of internalization of consumer welfare by the cooperatives that we study would yield consumer welfare gains comparable to the regulatory advantages that they enjoy."
 
 # Summary. An optional shortened abstract.
 summary: ""
