@@ -15,7 +15,7 @@ role: Economics Ph.D.
 # Organizations/Affiliations
 organizations:
 - name: University of Wisconsin-Madison
-  url: "https://econ.wisc.edu/"
+  url: "https://econ.wisc.edu/staff/duarte-filho-marco/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -43,13 +43,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:duartefilho@wisc.edu"
 - icon: github
   icon_pack: fab
   link: https://github.com/marco-duarte
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=BRIba1QAAAAJ&hl=en&oi=sra
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -61,3 +64,5 @@ email: ""
 #- []
 ---
 I am a Ph.D. candidate at the University of Wisconsin-Madison. My research interests lie at the intersection of industrial organization and applied microeconomics. In particular, I focus on the estimation and testing of firms' conduct and the interaction of collusive practices and vertical relations between firms.
+
+I am on the job market for 2021-2022 and will be available at the EJME in December 2021 and the ASSA meetings in January 2022.
