@@ -3,7 +3,7 @@
 
 title: "The Competitive Conduct of Consumer Cooperatives"
 authors: ["Marco Duarte", "Lorenzo Magnolfi", "Camilla Roncoroni"]
-date: 2020-07-28T14:30:38-05:00
+date: 2021-08-09T12:33:09-06:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
