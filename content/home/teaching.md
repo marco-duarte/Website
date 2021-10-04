@@ -30,8 +30,8 @@ weight = 100
 
 | Term    | Course | Institution |
 | ------------- |-------------| :-----:|
-| Spring 2018 | (Econ 101) Principles of Microeconomics (Undergraduate)  |    UW-Madison |
-| Fall 2018 | (Econ 302) Intermediate Macroeconomics (Undergraduate) |    UW-Madison |
-| Spring 2017 | (Econ 101) Principles of Microeconomics (Undergraduate)  |    UW-Madison |
-| Fall 2017 | (Econ 101) Principles of Microeconomics (Undergraduate) |    UW-Madison |
+| Spring 2019 | (Econ 467) International Industrial Organizations |    UW-Madison |
+| Fall 2018 | (Econ 302) Intermediate Macroeconomics |    UW-Madison |
+| Spring 2018 | (Econ 101) Principles of Microeconomics |    UW-Madison |
+| Fall 2017 | (Econ 101) Principles of Microeconomics |    UW-Madison |
 | Fall 2015 | Monetary Economics (Undergraduate) |    Sao Paulo School of Economics |
