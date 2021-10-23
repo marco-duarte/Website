@@ -16,8 +16,8 @@ doi: ""
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "R&R RAND Journal of Economics"
+publication_short: "R&R RAND"
 abstract: "Consumer cooperatives are firms owned by their customers. Although their organizational form should commit these firms to not exploit their market power, in practice weak governance may allow managers to pursue other objectives. Using data and a structural model, we test whether consumer cooperatives in the Italian supermarket industry act as profit-maximizing firms. We find no significant deviations from profit maximization. However, even a mild degree of internalization of consumer welfare by the cooperatives that we study would yield consumer welfare gains comparable to the regulatory advantages that they enjoy."
 
 # Summary. An optional shortened abstract.
