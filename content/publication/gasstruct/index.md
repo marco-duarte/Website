@@ -3,7 +3,7 @@
 
 title: "Hub-and-Spoke Collusion with Horizontally Differentiated Spokes"
 authors: ["Marco Duarte", "Daniel Chaves"]
-date: 2021-12-08T12:33:09-06:00
+date: 2021-12-05T12:33:09-06:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["0"]
 publication: ""
 publication_short: "JMP"
 
-abstract: "A hub-and-spoke cartel, where firms' constraint competition with the help of an upstream supplier or a downstream buyer, is a type of collusive arrangement observed in a variety of industries. The recent literature focuses on information sharing as the main mechanism through which a hub can help spokes to coordinate. We show that when asymmetries in horizontal differentiation across spokes exist, the hub can also use wholesale price differences to help spokes achieve higher prices. We present evidence that this mechanism was used during a hub-and-spoke cartel between gas stations and distributors in the Brazilian gasoline industry. We also estimate a structural model of demand for gasoline and retail price collusion to quantify the importance of the wholesale price strategy for the stability of the cartel. We find that in the absence of the hub's wholesale price strategy, gas stations would need to decrease the coordinated overprice by 80% to sustain collusion."
+abstract: "A hub-and-spoke cartel, where firms (spokes) limit competition with the help of an upstream supplier(hub), is a type of collusive arrangement observed in a variety of industries. In most cases, spokes compensate the hub's help by excluding its rivals. Under those circumstances, how do hub and spokes divide the rents from collusion? We study a hub-and-spoke cartel with an exclusion condition between gas stations and distributors in the gasoline market of Brazil's Federal District. Using a structural model of demand, we estimate the gas stations' incentive to collude for different splits of rents. We show that, although more rents to distributors increased the stations' incentive to deviate from supplier, it also decreased their incentive to deviate on prices. In a counterfactual scenario where retailers extract all the rents from collusion, the cartel would need to decrease markups by 24% not to trigger price deviations. Another counterfactual points out that banning exclusive dealing contracts between stations and distributors would have destabilized the retail price coordination."
 
 # Summary. An optional shortened abstract.
 summary: ""
