@@ -3,7 +3,7 @@
 
 title: "Hub-and-Spoke Collusion with Horizontally Differentiated Spokes"
 authors: ["Marco Duarte", "Daniel Chaves"]
-date: 2021-10-08T12:33:09-06:00
+date: 2021-12-08T12:33:09-06:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
