@@ -3,7 +3,7 @@
 
 title: "Testing Firm Conduct"
 authors: ["Marco Duarte", "Lorenzo Magnolfi","Mikkel Sølvsten", "Christopher Sullivan"]
-date: 2021-06-28T15:00:04-05:00
+date: 2022-01-05T15:00:04-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,9 +19,7 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: "We study inference on firm conduct without data on markups. Berry and Haile (2014) provide a testability condition requiring instruments. Implementing a test using this condition involves choosing both hypotheses and instruments, which affect inference. While the IO literature has adopted model selection and model assessment approaches to formulating
-hypotheses, we present the advantages of the Rivers and Vuong (2002) (RV) model selection test under misspecification. However, the RV test may suffer from degeneracy, whereby inference is invalid. We characterize degeneracy as a weak instruments problem via a novel definition of
-weak instruments for testing. This characterization enables us to provide a diagnostic for reliable inference. We illustrate our results in the setting of Villas-Boas (2007). We test conduct with three standard sets of instruments, one strong and two weak. Weak instruments cause the RV test to have no power. With strong instruments, models of double marginalization are rejected."
+abstract: "We study inference on firm conduct without data on markups. Berry and Haile (2014) provide a restriction, formed with instruments, to falsify a model of conduct. Implementing a test using this falsifiable restriction involves choosing both hypotheses and instruments, affecting inference. While the IO literature has adopted model selection and model assessment approaches to formulating hypotheses, we present the advantages of the Rivers and Vuong (2002) (RV) model selection test under misspecification. However, the RV test may suffer from degeneracy, whereby inference is invalid. We connect degeneracy to instrument strength via a novel definition of weak instruments for testing, enabling us to provide a diagnostic for weak instruments. An application in the setting of Villas-Boas (2007) illustrates our results. We test conduct with four commonly used sets of instruments. Two are weak, causing the RV test to have no power. With a procedure to accumulate evidence across all sets of strong instruments, we conclude for a model in which manufacturers set retail prices."
 
 # Summary. An optional shortened abstract.
 summary: ""
