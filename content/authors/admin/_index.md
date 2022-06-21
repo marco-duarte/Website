@@ -14,8 +14,8 @@ role: Economics Ph.D.
 
 # Organizations/Affiliations
 organizations:
-- name: University of Wisconsin-Madison
-  url: "https://econ.wisc.edu/staff/duarte-filho-marco/"
+- name: University of North Carolina - Chapel Hill
+#  url: "https://econ.wisc.edu/staff/duarte-filho-marco/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -26,9 +26,9 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. Candidate in Economics
+  - course: Ph.D. in Economics
     institution: University of Wisconsin-Madison
-    year: 
+    year: 2022
   - course: M.S. in Economics
     institution: Sao Paulo School of Economics
     year: 2016
@@ -63,6 +63,4 @@ email: ""
 #- []
 #- []
 ---
-I am a Ph.D. candidate at the University of Wisconsin-Madison. My research interests lie at the intersection of industrial organization and applied microeconomics. In particular, I focus on the estimation and testing of firms' conduct and the interaction of collusive practices and vertical relations between firms.
-
-I am on the job market for 2021-2022 and will be available at the EJME in December 2021 and the ASSA meetings in January 2022.
+I am an Assistant Professor at the University of North Carolina - Chapel Hill. My research interests lie at the intersection of industrial organization and applied microeconomics. In particular, I focus on the estimation and testing of firms' conduct and the interaction of collusive practices and vertical relations between firms.
