@@ -3,7 +3,7 @@
 
 title: "The Inner Workings of a Hub-and-Spoke Cartel in the Automotive Fuel Industry"
 authors: ["Marco Duarte", "Daniel Chaves"]
-date: 2021-07-09T12:33:09-06:00
+date: 2022-06-09T12:33:09-06:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["0"]
 publication: "R&R American Economic Journal: Microeconomics"
 publication_short: "R&R AEJ: Micro"
 
-abstract: "We analyze a hub-and-spoke cartel in the Brazilian automotive fuel industry. Using the court documents and detailed data on the supply chain we uncover the mechanisms used by gas stations and fuel distributors to solve the obstacles of price coordination. The evidence shows that a subset of distributors (hub) helped the stations (spokes) to overcome coordination problems in three ways: (i) allowing for transfers between geographically dispersed stations (ii) punishing defectors by offering wholesale price discounts to the defector’s close competitors; and (iii) reducing the frequency of price changes and asymmetries between stations by diverging sales to the product with stable costs. We argue that the hub benefited from the cartel by being the exclusive supplier during the scheme. We use the synthetic control approach to quantify how successful the cartel was in generating higher mark-ups. We find that not only retailers, but wholesalers benefited from the cartel."
+abstract: "We analyze a hub-and-spoke cartel in the Brazilian automotive fuel industry. Based on court documents and detailed price and sales data, we discuss how gas stations owners (spokes) operating inside the federal capital received help from fuel distributors (hub) to reduce the dispersion and increase the level of the gasoline retail price. We provide evidence that distributors members benefited from the scheme by raising wholesale prices while excluding competitors from supplying to retail members. We also provide empirical evidence and theoretical ground for a new mechanism beyond information sharing that the hub can use to help spokes solve the obstacles of price coordination: smooth cost fluctuations."
 
 # Summary. An optional shortened abstract.
 summary: ""
