@@ -5,6 +5,11 @@
 
 [[main]]
   name = "Home"
+  url = "#redirect"
+  weight = 5
+
+[[main]]
+  name = "Home"
   url = "#about"
   weight = 10
 
